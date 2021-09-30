@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "aqua"
 
 # Site Settings
 locale                   : "ko"
-title                    : "외대위키"
+title                    : "시작은 너의 하늘"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "김채영"
-description              : "김채영이 가꾸어 나가는 외대부고의 나무"
+name                     : ""
+description              : "나를 이루어가는 이야기"
 url                      : # "https://bean2muwon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bean2muwon/bean2muwon.github.io"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "김태형"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "계산을 잘 못 하는 학생"
+  bio              : "시부야구 타코야끼 알바생"
   location         : "대한민국, 서울"
   email            : "wwyou0111@gmail.com"
   links:
